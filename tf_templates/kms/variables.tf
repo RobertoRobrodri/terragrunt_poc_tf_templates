@@ -1,19 +1,19 @@
 variable "name" {
-	type = "string"
+	type = string
 }
 
 variable "env" {
-	type = "string"
+	type = string
 }
 
 variable "project_id" {
-	type = "string"
+	type = string
 }
 
 variable "env_short" {
-	type = "string"
+	type = string
 }
 
 variable "region" {
-	type = "string"
+	type = string
 }
